@@ -126,7 +126,7 @@ This project demonstrates:
 - Linear regression implementation
 - Model evaluation and interpretation
 - Real-world application of machine learning
-- 
+
 ## 📞 Contact
 
 Your Name - amanbadola999@gmail.com
